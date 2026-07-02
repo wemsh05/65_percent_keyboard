@@ -3271,16 +3271,16 @@
 		)
 	)
 	(junction
+		(at 175.26 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17638dbf-19ae-4383-93cb-7b38bc88f31a")
+	)
+	(junction
 		(at 175.26 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "27f5292f-824d-4ac6-8b58-75de186feb05")
-	)
-	(junction
-		(at 154.94 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2fd78552-ebd0-4ac1-862d-23d5c6a0f8f0")
 	)
 	(junction
 		(at 226.06 124.46)
@@ -3323,6 +3323,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59a50ee1-a4ce-461a-889a-6f33314af951")
+	)
+	(junction
+		(at 57.15 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65ce49cc-4404-4d6e-9f24-1054d2a9c8d4")
 	)
 	(junction
 		(at 53.34 30.48)
@@ -3391,16 +3397,22 @@
 		(uuid "cb04ece5-43e2-4daa-97bf-ef03cc205e23")
 	)
 	(junction
-		(at 57.15 55.88)
+		(at 154.94 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d2ad4180-bbd4-46e0-9d05-8d44e55612c1")
+		(uuid "da06122d-a10b-460d-8542-3dd31df32425")
 	)
 	(junction
 		(at 120.65 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ddd08d63-aed2-494c-96cc-bf8dfc8bf356")
+	)
+	(junction
+		(at 166.37 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4d297e6-0653-4ca2-81d0-dbcd14534046")
 	)
 	(junction
 		(at 48.26 30.48)
@@ -3413,12 +3425,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f03020b7-fe04-4206-9e45-a003685d8bd1")
-	)
-	(junction
-		(at 175.26 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f76fcbaf-23b9-4be8-a1b6-cee9cda311f6")
 	)
 	(no_connect
 		(at 36.83 48.26)
@@ -3459,6 +3465,16 @@
 			(type default)
 		)
 		(uuid "07095bc3-fb53-437c-9489-2896b832267c")
+	)
+	(wire
+		(pts
+			(xy 57.15 55.88) (xy 71.12 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0771483a-9118-41a1-8b03-1b57be322111")
 	)
 	(wire
 		(pts
@@ -3512,7 +3528,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 55.88) (xy 71.12 55.88)
+			(xy 50.8 55.88) (xy 57.15 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3722,16 +3738,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 55.88) (xy 57.15 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34ee3e07-9b08-43b7-b7f7-2372e0e0b008")
-	)
-	(wire
-		(pts
 			(xy 166.37 57.15) (xy 166.37 58.42)
 		)
 		(stroke
@@ -3879,6 +3885,16 @@
 			(type default)
 		)
 		(uuid "58eb5506-5e12-4e81-8433-fcb2c4fbe4bb")
+	)
+	(wire
+		(pts
+			(xy 166.37 81.28) (xy 166.37 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d71d6cb-13b3-4a8d-831a-e13058a37e5c")
 	)
 	(wire
 		(pts
@@ -4132,16 +4148,6 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 81.28) (xy 175.26 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "967dabe6-4611-4d69-af80-465b003fa0b0")
-	)
-	(wire
-		(pts
 			(xy 71.12 63.5) (xy 71.12 66.04)
 		)
 		(stroke
@@ -4312,6 +4318,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 78.74) (xy 166.37 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aea83654-8a62-448b-9ac3-cc6e68231c50")
+	)
+	(wire
+		(pts
 			(xy 166.37 92.71) (xy 175.26 92.71)
 		)
 		(stroke
@@ -4379,6 +4395,16 @@
 			(type default)
 		)
 		(uuid "b64169c8-d320-448a-86a5-9d8c32f2b60b")
+	)
+	(wire
+		(pts
+			(xy 154.94 81.28) (xy 166.37 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "badd7c91-388a-493b-8986-060977c7b861")
 	)
 	(wire
 		(pts
@@ -4499,6 +4525,16 @@
 			(type default)
 		)
 		(uuid "cd213cb3-970b-43ac-91c3-edd1c0718954")
+	)
+	(wire
+		(pts
+			(xy 166.37 81.28) (xy 175.26 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d385ffde-b0e5-4ee3-9881-6daaecfab4d0")
 	)
 	(wire
 		(pts
@@ -4629,16 +4665,6 @@
 			(type default)
 		)
 		(uuid "f635dbc9-9d9c-445c-9eda-0ef7ec5044b5")
-	)
-	(wire
-		(pts
-			(xy 166.37 78.74) (xy 166.37 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd6563d9-b7c9-49f3-9bbb-78fae877af4a")
 	)
 	(label "USB_D_N"
 		(at 50.8 43.18 0)
@@ -5782,88 +5808,6 @@
 			(project "keyboard_pcb_projects"
 				(path "/60b60fcb-c731-4449-9c36-37a66f3ef71b"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 57.15 53.34 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0b1b6ce2-b2f6-4b5e-be7d-2f32af928eba")
-		(property "Reference" "R5"
-			(at 59.69 52.0699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 59.69 54.6099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 57.15 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 57.15 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 57.15 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a98a04dc-e4d1-489c-89a7-fa90edfd4fdd")
-		)
-		(pin "2"
-			(uuid "3b8b45b5-c6c2-4d2e-b633-bd09879ccab5")
-		)
-		(instances
-			(project "keyboard_pcb_projects"
-				(path "/60b60fcb-c731-4449-9c36-37a66f3ef71b"
-					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -7282,6 +7226,88 @@
 			(project "keyboard_pcb_projects"
 				(path "/60b60fcb-c731-4449-9c36-37a66f3ef71b"
 					(reference "Y1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 71.12 53.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84b344c9-238c-40fe-9b18-bba6668dd407")
+		(property "Reference" "R5"
+			(at 73.66 52.0699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 73.66 54.6099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 71.12 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 71.12 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5fb8d6ba-51e1-43ac-9d78-0106efc9f799")
+		)
+		(pin "2"
+			(uuid "c781a7a8-8538-47fb-8549-fa207015cd61")
+		)
+		(instances
+			(project "keyboard_pcb_projects"
+				(path "/60b60fcb-c731-4449-9c36-37a66f3ef71b"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -8788,88 +8814,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 71.12 53.34 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f0587ef3-8717-4297-b64a-58e33ab1c118")
-		(property "Reference" "R6"
-			(at 73.66 52.0699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "5.1k"
-			(at 73.66 54.6099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 71.12 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 71.12 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "5f29d0dc-3e04-4e23-9a6e-21d240cb17a8")
-		)
-		(pin "1"
-			(uuid "21df2dc8-6b50-4537-934e-10385293cc20")
-		)
-		(instances
-			(project "keyboard_pcb_projects"
-				(path "/60b60fcb-c731-4449-9c36-37a66f3ef71b"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 220.98 129.54 0)
 		(unit 1)
@@ -8942,6 +8886,88 @@
 			(project "keyboard_pcb_projects"
 				(path "/60b60fcb-c731-4449-9c36-37a66f3ef71b"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 57.15 53.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9b9ce0d-d92a-43f9-be15-e560e7f48568")
+		(property "Reference" "R6"
+			(at 59.69 52.0699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 59.69 54.6099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 57.15 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 57.15 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "cc6dc522-2b2b-479b-8678-0ecc0505c6d4")
+		)
+		(pin "1"
+			(uuid "178539a7-1082-4e84-8de7-7a29f62b5121")
+		)
+		(instances
+			(project "keyboard_pcb_projects"
+				(path "/60b60fcb-c731-4449-9c36-37a66f3ef71b"
+					(reference "R6")
 					(unit 1)
 				)
 			)
