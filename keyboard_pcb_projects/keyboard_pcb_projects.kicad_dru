@@ -1,0 +1,4 @@
+(version 1)
+(rule "USB-C Fine Pitch Clearance"
+    (constraint clearance (min 0.15mm))
+    (condition "A.memberOfFootprint('USB1')"))
