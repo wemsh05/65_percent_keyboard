@@ -3,4 +3,5 @@
 	(lib (name "MX_Hotswap") (type "KiCad") (uri "C:/Users/wemsh05/Documents/keyboard_pcb_libraries/MX_V2/MX_Hotswap.pretty") (options "") (descr ""))
 	(lib (name "random-keyboard-parts") (type "KiCad") (uri "C:/Users/wemsh05/Documents/keyboard_pcb_libraries/random-keyboard-parts.pretty") (options "") (descr ""))
 	(lib (name "Type-C") (type "KiCad") (uri "C:/Users/wemsh05/Documents/keyboard_pcb_libraries/Type-C.pretty") (options "") (descr ""))
+	(lib (name "silkscreen_logos") (type "KiCad") (uri "C:/Users/wemsh05/Documents/keyboard_pcb_libraries/silkscreen_logos.pretty") (options "") (descr ""))
 )
