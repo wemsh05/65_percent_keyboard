@@ -74,7 +74,6 @@
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0)
-		(solder_mask_min_width 0.1)
 		(allow_soldermask_bridges_in_footprints yes)
 		(tenting
 			(front yes)
@@ -92,11 +91,11 @@
 		(filling no)
 		(grid_origin 39 71)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_55555555_575555ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
-			(usegerberattributes yes)
+			(usegerberattributes no)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
 			(dashed_line_dash_ratio 12)
@@ -123,9 +122,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "C:/Users/wemsh05/Documents/65_percent_keyboard/keyboard_pcb_projects/Gerbers")
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad"
