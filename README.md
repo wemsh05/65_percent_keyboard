@@ -13,6 +13,6 @@ This project is inspired by MasterZen's 65% keyboard tutorial.
 ---
 
 # Schematic
-![Keyboard Schematic](keyboard_photos/schematics.png)
+![Keyboard Schematic](keyboard_photos/schematic.png)
 
 ---
