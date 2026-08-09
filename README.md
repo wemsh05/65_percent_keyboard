@@ -34,4 +34,19 @@ My first layout finished with a lot of vias, a lot of which isn't really necessa
 
 Regarding the grounding, my friend who does pcbs much more than me says that usually he fills both sides that have no traces with copper but Masterzen said that I don't need to cover both sides with copper as ground as that could amplify cross-talk. He mentioned that 4 layer boards and above have their dedicated ground layers so it wouldn't be an issue for them. 
 
+
+---
+
+
+# Silkscreen and 3D effects
+
+Currently, the silkscreen remains a free-hand drawing of what I imagine the final prototype to be as I don't have time to improve it. 
+
+![keyboard layout](keyboard_photos/kicad_pcb_3d_front.png)
+
+But on the front of 3d effects, I did end up choosing red as the final board color since I wanted the color to stand out a bit more but the official purple color is too muted. 
+
+
+![keyboard layout](keyboard_photos/JLC_picture.png)
+
 ---
