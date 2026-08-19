@@ -50,3 +50,16 @@ But on the front of 3d effects, I did end up choosing red as the final board col
 ![keyboard layout](keyboard_photos/JLC_picture.png)
 
 ---
+
+# Manufactured pictures
+
+(Update on 8/19/2026)
+The keyboard is now fully manufactured and I did have to end up choosing a matte light black since the manufacturer didn't have purple. But it did also turn out that the color was nice. For my first ever pcb project, the overall size definitely had the potential for optimization, but I believe overall this was a successful project. 
+
+The front side 
+![keyboard layout](keyboard_photos/manufactured_front.jpg)
+
+The back side
+![keyboard layout](keyboard_photos/manufactured_back.jpg)
+
+---
