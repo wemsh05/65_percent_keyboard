@@ -63,3 +63,9 @@ The back side
 ![keyboard layout](keyboard_photos/manufactured_back.jpg)
 
 ---
+
+# Firmware download success
+
+I had to write the key matrix firmware for this board. Fortunately, the bootloader was already in the MCU which I somehow thought it wasn't. Currently I don't have the keys themselves to test multi-key rollover, but single keys do work:
+
+[![Full Demo](https://img.youtube.com/vi/wM53zP1alu8/maxresdefault.jpg)](https://www.youtube.com/watch?v=wM53zP1alu8)
